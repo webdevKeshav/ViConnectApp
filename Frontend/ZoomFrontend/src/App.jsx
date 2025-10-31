@@ -4,8 +4,8 @@ import LandingPage from './pages/LandingPage.jsx';
 import Authentication from './pages/Authentication.jsx';
 import { AuthProvider } from './context/AuthContext.jsx';
 import './App.css';
-import VideoMeet from './pages/videoMeet.jsx';
-import History from './pages/history.jsx';
+import VideoMeet from './pages/VideoMeet.jsx';
+import History from './pages/?History.jsx';
 import Home from './pages/Home.jsx';
 
 
